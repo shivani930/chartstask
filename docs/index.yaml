@@ -3,7 +3,7 @@ entries:
   graphite:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-19T20:06:09.7564403+05:30"
+    created: "2026-03-19T20:19:06.5769624+05:30"
     description: A Helm chart for graphite
     digest: 3eb0162a0a6483826dd68cec563ca1effea747d732e93694cdeb6c51426ad4c7
     name: graphite
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://shivani930.github.io/chartstask/graphite-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-19T20:06:09.7512632+05:30"
+generated: "2026-03-19T20:19:06.5731536+05:30"
