@@ -3,23 +3,12 @@ entries:
   graphite:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-18T21:09:50.0208088+05:30"
+    created: "2026-03-19T20:06:09.7564403+05:30"
     description: A Helm chart for graphite
-    digest: e06454acde09cae4cb260f25ffc1d398787ad7c6738e0bbe18be72fdac1b4ab7
+    digest: 3eb0162a0a6483826dd68cec563ca1effea747d732e93694cdeb6c51426ad4c7
     name: graphite
     type: application
     urls:
-    - https://shivani930.github.io/charts-task/graphite-0.1.0.tgz
+    - https://shivani930.github.io/chartstask/graphite-0.1.0.tgz
     version: 0.1.0
-  neural:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2026-03-18T21:09:50.0224225+05:30"
-    description: A Helm chart for neural
-    digest: e826406ddd9eb4169fc6a3ee58a3d76645e6a3ebe3990d56ed97dbf27ce23182
-    name: neural
-    type: application
-    urls:
-    - https://shivani930.github.io/charts-task/neural-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-03-18T21:09:50.0162762+05:30"
+generated: "2026-03-19T20:06:09.7512632+05:30"
